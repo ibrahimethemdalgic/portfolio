@@ -4,9 +4,7 @@
 
 A personal portfolio website built with plain HTML, CSS, and JavaScript. It presents an about section, a list of skills, a projects showcase, and contact links.
 
-🔗 Live Demo
 
-https://ibrahimethemdalgic.github.io/
 
 ## 🛠️ Built With
 - HTML5
