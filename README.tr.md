@@ -4,9 +4,7 @@
 
 HTML, CSS ve JavaScript kullanılarak hazırlanmış kişisel portfolyo sitesi. Hakkımda bölümü, yetenekler listesi, projeler vitrini ve iletişim bağlantılarını içerir.
 
-🔗 Canlı Demo
 
-https://ibrahimethemdalgic.github.io/
 
 ## 🛠️ Kullanılan Teknolojiler
 - HTML5
